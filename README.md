@@ -19,7 +19,7 @@ Built to explore how CPUs fetch, decode, and execute instructions from the groun
 ### Project Build
 Full picture of the physical project:  
 
-![Project Build]([images/project_build.jpeg](https://github.com/sakilrocks/8-bit-computer/raw/images/images/project_build.jpeg))
+![Project Build](https://github.com/sakilrocks/8-bit-computer/raw/images/images/project_build.jpeg)
 
 ### Programming Setup
 Arduino used as a programmer:  

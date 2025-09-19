@@ -19,12 +19,12 @@ Built to explore how CPUs fetch, decode, and execute instructions from the groun
 ### Project Build
 Full picture of the physical project:  
 
-![Project Build](images/project_build.jpeg)
+![Project Build]([images/project_build.jpeg](https://github.com/sakilrocks/8-bit-computer/raw/images/images/project_build.jpeg))
 
 ### Programming Setup
 Arduino used as a programmer:  
 
-![Arduino Programmer](images/arduino_programmer.jpeg)
+![Arduino Programmer](https://github.com/sakilrocks/8-bit-computer/raw/images/images/arduino_programmer.jpeg)
 
 ---
 

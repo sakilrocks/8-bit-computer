@@ -16,17 +16,13 @@ Built to explore how CPUs fetch, decode, and execute instructions from the groun
 
 ## Images
 
-### Circuit Diagram
-Hand-coded circuit diagram showing connections and components:  
-![Circuit Diagram](images/circuit_diagram.jpg)
-
 ### Project Build
 Full picture of the physical project:  
-![Project Build](images/project_build.jpg)
+![Project Build](images/project_build.jpeg)
 
 ### Programming Setup
 Arduino used as a programmer:  
-![Arduino Programmer](images/arduino_programmer.jpg)
+![Arduino Programmer](images/arduino_programmer.jpeg)
 
 ---
 
@@ -37,8 +33,3 @@ This computer follows the fetch-decode-execute cycle:
 3. **Execute** – Perform ALU operation, memory access, or jump  
 
 ---
-
-## Running / Building
-If you have an emulator or code:
-```bash
-python emulator.py
